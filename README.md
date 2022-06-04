@@ -9,7 +9,7 @@
 ## Deploy Fácil
 - Clique no botão a baixo e faça deploy do projeto direto no heroku automaticamente:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/erickythierry/ytdl-simple-api)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/all-drama/ytdl-simple-ap)
 
 &nbsp;
 ## Deploy Manual
