@@ -126,7 +126,7 @@ function showAlert(msg, type='erro'){
 
 function resetBtnBuscar(){
     document.getElementById('botaobuscar').innerHTML = ''
-    document.getElementById('botaobuscar').innerHTML = `<p type="button" class="btn btn-lg btn-danger mt-3" id="botaobuscar" onclick="inicio()">buscar <span class="material-icons">search</span></p>`
+    document.getElementById('botaobuscar').innerHTML = `<p type="button" class="btn btn-lg btn-danger mt-3" id="botaobuscar" onclick="inicio()">search <span class="material-icons">search</span></p>`
 }
 
 function downloadScreen(data){
